@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on project
-- 📫 davidyao505@outlook.fr
+- 📫 broudavid505@gmail.com
 - ⚡ Fun fact: video
 
 <!---
